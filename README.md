@@ -1,4 +1,4 @@
-# Freqeunt Itemsets - Apriori Algorithm
+# Frequent Itemsets - Apriori Algorithm
 
 This program implements the apriori algorithm to model items that are commonly purchased together and prints out these itemsets which can serve as a basis of the 'suggested item' feature that many online retailers have used to make recommendations to their customers.
 
